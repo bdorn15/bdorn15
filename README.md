@@ -37,7 +37,7 @@ Raycasting engine inspired by Wolfenstein 3D.
 - Real-time rendering
 - Player movement & collision detection
 - Texture mapping
-- MiniLibX graphics
+- Mlx 42 graphics
 
 ### Philosophers
 Concurrency simulation using threads and mutexes.
@@ -49,9 +49,9 @@ Concurrency simulation using threads and mutexes.
 
 ## Technical Skills
 
-**Languages:** C, C++  
+**Languages:** C, C++, Typescript
 **Core Concepts:** Multithreading, Process Management, IPC, Networking, Parsing, Memory Management  
-**Tools & Environment:** Linux, Git, Bash, Makefiles
+**Tools & Environment:** Linux, Git, Bash, Makefiles, VS Code, Docker
 
 ---
 
