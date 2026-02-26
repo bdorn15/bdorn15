@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi, I'm Arne
 
-<!--
-**bdorn15/bdorn15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend & Systems Developer focused on low-level programming, concurrency and networked applications.
 
-Here are some ideas to get you started:
+I completed the Hive Helsinki curriculum, building complex system-level projects in C and C++ on Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+- Strong interest in backend and systems programming
+- Experience with Unix internals, processes and multithreading
+- Comfortable working close to the operating system layer
+- Focus on performance, robustness and clean architecture
+
+---
+
+## Selected Projects
+
+### Minishell
+Unix shell implementation in C.
+- Command parsing using AST
+- Pipes, redirections, heredocs
+- Process creation (`fork`, `execve`, `wait`)
+- File descriptor management
+- Signal handling
+
+### IRC Server
+Multi-client IRC server implemented in C++.
+- TCP socket programming
+- Client/server architecture
+- IRC protocol handling
+- Channel and user management
+- Concurrent connections
+
+### Cub3D
+Raycasting engine inspired by Wolfenstein 3D.
+- Real-time rendering
+- Player movement & collision detection
+- Texture mapping
+- MiniLibX graphics
+
+### Philosophers
+Concurrency simulation using threads and mutexes.
+- Deadlock prevention
+- Race condition handling
+- Precise timing synchronization
+
+---
+
+## Technical Skills
+
+**Languages:** C, C++  
+**Core Concepts:** Multithreading, Process Management, IPC, Networking, Parsing, Memory Management  
+**Tools & Environment:** Linux, Git, Bash, Makefiles
+
+---
+
+## Currently
+
+Seeking entry-level Backend or Systems Programming roles.  
+Open to on-site or remote opportunities.
+
+---
+
+## Links
