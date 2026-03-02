@@ -61,5 +61,3 @@ Seeking entry-level Backend or Systems Programming roles.
 Open to on-site or remote opportunities.
 
 ---
-
-## Links
